@@ -1,0 +1,32 @@
+sqrt5=5;
+$phi=(1.0+$sqrt5)/2;
+
+$n=shift;
+$f=$phi**$n/$sqrt5;
+if($f<$f+5)
+{
+	$f=$f;
+}
+else
+{
+	$f=1+$f;
+}
+print "$f\n";
+
+sub show_value
+ {
+ $a = 1;
+ if ($a > 0) return 1;
+ else return 2;
+ }
+ &show_value(1001);
+
+while($x<100) {
+	print "$x\n";
+	$x=$x+1;
+}
+for($x=0; $x<100; $x=$x+1) {
+	print "$x\n";
+}
+# la Sienne
+

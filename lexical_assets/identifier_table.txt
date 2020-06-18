@@ -1,0 +1,8 @@
+i0: sqrt5
+i1: phi
+i2: n
+i3: shift
+i4: f
+i5: show_value
+i6: _
+i7: x

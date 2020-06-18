@@ -1,0 +1,17 @@
+i0 o6 num0 r2
+p0 i1 o6 r4 num1 o0 p0 i0 r5 o3 num2 r2
+
+p0 i2 o6 i3 r2
+p0 i4 o6 p0 i1 o8 p0 i2 o3 p0 i0 r2
+w3 r4 p0 i4 o4 p0 i4 o0 num3 r5
+r0
+r8 p0 i4 o6 p0 i4 r2
+r1
+w4
+r0
+r8 p0 i4 o6 num4 o0 p0 i4 r2
+r1
+w0 con0 r2
+
+w1 i5 r0 w0 con1 r3 p0 i6 r9 num5 r10 r2 r1 p2 i5 r4 num6 r5
+
